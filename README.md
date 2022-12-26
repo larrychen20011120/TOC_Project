@@ -8,6 +8,9 @@
 * Linebot API
 * HTTPS Server
 * Fast-Style-Transfer github package
+* Imgur
+* Sqlite
+* BeautifulSoup
 
 #### Install Dependency
 ```sh
@@ -15,20 +18,9 @@ pip install -r requirements.txt
 ```
 
 #### Secret Data
-You should generate a `.env` file to set Environment Variables refer to our `.env.sample`.
-`LINE_CHANNEL_SECRET` and `LINE_CHANNEL_ACCESS_TOKEN` **MUST** be set to proper values.
-Otherwise, you might not be able to run your code.
+`config.py` => Config fill in your own token of linebot and imgur
 
-#### Run Locally
-You can either setup https server or using `ngrok` as a proxy.
-
-#### a. Ngrok installation
-* [ macOS, Windows, Linux](https://ngrok.com/download)
-
-or you can use Homebrew (MAC)
-```sh
-brew cask install ngrok
-```
+#### run locally
 
 **`ngrok` would be used in the following instruction**
 
@@ -40,14 +32,14 @@ After that, `ngrok` would generate a https URL.
 
 #### Run the sever
 
+* linebot server
 ```sh
 python3 app.py
 ```
-
-#### b. Servo
-
-Or You can use [servo](http://serveo.net/) to expose local servers to the internet.
-
+* spider and computing server
+```sh
+python3 server.py
+```
 
 ## Finite State Machine
 ![fsm](./static/fsm.png)
