@@ -44,6 +44,8 @@ python3 server.py
 ## Finite State Machine
 ![fsm](./static/fsm.png)
 
+## Example
+* ![image](https://user-images.githubusercontent.com/38965858/209559978-105d279b-940d-4e4b-8ca4-465b15a4247e.png)
 
 ## Reference
 * https://github.com/lengstrom/fast-style-transfer
