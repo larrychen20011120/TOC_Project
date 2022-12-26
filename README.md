@@ -52,6 +52,14 @@ python3 server.py
 ## Finite State Machine
 ![fsm](./static/fsm.png)
 
+## Command can use
+* 創建藝術品
+* 近期藝術活動
+* 我的畫廊
+* 刪除藝術品{編號}
+* 清空畫廊
+* 放入畫廊 (需要先有上傳照片)
+
 ## Example
 ![image](https://user-images.githubusercontent.com/38965858/209559978-105d279b-940d-4e4b-8ca4-465b15a4247e.png)
 ![image](https://user-images.githubusercontent.com/38965858/209560936-7997816f-506c-4bec-b35c-fa32c75175b5.png)
