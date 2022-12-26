@@ -54,6 +54,9 @@ python3 server.py
 
 ## Example
 ![image](https://user-images.githubusercontent.com/38965858/209559978-105d279b-940d-4e4b-8ca4-465b15a4247e.png)
+![image](https://user-images.githubusercontent.com/38965858/209560936-7997816f-506c-4bec-b35c-fa32c75175b5.png)
+![image](https://user-images.githubusercontent.com/38965858/209561029-60ddf8bd-64f3-4352-a656-8b13122c7ca5.png)
+
 
 ## Reference
 * https://github.com/lengstrom/fast-style-transfer
