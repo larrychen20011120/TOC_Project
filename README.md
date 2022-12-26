@@ -25,7 +25,7 @@ pip install -r requirements.txt
 **`ngrok` would be used in the following instruction**
 
 ```sh
-ngrok http 8000
+ngrok http 5000
 ```
 
 After that, `ngrok` would generate a https URL.
@@ -46,3 +46,5 @@ python3 server.py
 
 
 ## Reference
+* https://github.com/lengstrom/fast-style-transfer
+* https://ithelp.ithome.com.tw/users/20144761/ironman/5735
