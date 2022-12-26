@@ -41,6 +41,14 @@ python3 app.py
 python3 server.py
 ```
 
+## Objective
+* increase user's sense of art
+* store some unimportant images and no need to use personal storage
+* create some creative images that is funny
+* let user feel more like an artist
+* give user more special image for updating their social media
+* get the new information of tainan art musiem
+
 ## Finite State Machine
 ![fsm](./static/fsm.png)
 
