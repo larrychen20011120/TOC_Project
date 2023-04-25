@@ -37,7 +37,7 @@ After that, `ngrok` would generate a https URL.
 
 * linebot server
 ```sh
-python3 app.py
+python3 .py
 ```
 * spider and computing server
 ```sh
